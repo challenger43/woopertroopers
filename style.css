@@ -1,9 +1,12 @@
 p {
-    color:blue;
+    display: flex;
+    color:navy;
+
 }
 
 title {
-    color: darkcyan;
-   
-
+    display: flex;
+    background-color: azure;
+    
 }
+
