@@ -1,7 +1,7 @@
 p {
     display: flex;
     color:navy;
-    justify-content: flex-end;
+    flex-wrap: wrap;
 }
 
 title {
