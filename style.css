@@ -1,12 +1,16 @@
 p {
     display: flex;
     color:navy;
-
+    justify-content: flex-end;
 }
 
 title {
     display: flex;
-    background-color: azure;
+    background-color: rgb(123, 183, 183);
+    color: rgb(22, 99, 120);
+    font-size: 60px;
+    justify-content: center;
+    
     
 }
 
