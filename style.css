@@ -1,7 +1,8 @@
 p {
     display: flex;
-    color:navy;
+    color: rgb(22, 99, 120);
     flex-wrap: wrap;
+    background-color:rgb(123, 183, 183); 
     margin: 20px;
     font-family:'Courier New', Courier, monospace; 
 }
@@ -9,11 +10,14 @@ p {
 h1 {
     display: flex;
     font-family:'Courier New', Courier, monospace; 
-    margin-top: 200px;
     background-color: rgb(123, 183, 183);
     color: rgb(22, 99, 120);
     font-size: 60px;
     justify-content: center;
+    border-style:dashed;
+    border-color:wheat;
+    border-width: 5px;
+    border-radius: 25px;
     
     
 }
