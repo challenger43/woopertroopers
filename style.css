@@ -3,6 +3,7 @@ p {
     color:navy;
     flex-wrap: wrap;
     margin: 20px;
+    font-family:'Courier New', Courier, monospace; 
 }
 
 h1 {
