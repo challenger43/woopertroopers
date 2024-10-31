@@ -22,11 +22,18 @@ h1 {
     font-size: 60px;
     justify-content: center;
     border-style:dashed;
+<<<<<<< HEAD
     border-color: rgb(2, 2, 54);
     border-width: 5px;
     border-radius: 25px;
     text-decoration:double;
     text-shadow: 4px 2px 2px black;
+=======
+    border-color:cadetblue;
+    border-width: 5px;
+    border-radius: 25px;
+    
+>>>>>>> 4aa08aec58a0cd6756cad5accb438df0a7c6cf93
     
 }
 aghhhhhhhhhh
