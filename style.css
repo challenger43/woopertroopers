@@ -2,6 +2,7 @@ p {
     display: flex;
     color:navy;
     flex-wrap: wrap;
+    margin: 20px;
 }
 
 title {
