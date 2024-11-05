@@ -1,7 +1,17 @@
-.intro {
+
+body {
+    background-color: lightgray;
+}
+
+.navbar {
     display: flex;
+    justify-content: center; 
+    align-content: flex-end; 
+    flex-direction: row-reverse; 
+}
+
+.intro {
     color: rgb(6, 64, 80);
-    flex-wrap: wrap;
     background-color:rgb(123, 183, 183); 
     margin: 20px;
     font-family:'Courier New', Courier, monospace; 
@@ -9,19 +19,17 @@
     border-radius: 25px;
     border-width: 7px; 
     border-color: black;
-    border-style:dashed;
+    border-style:inset;
     padding: 10px;
 }
 
 .maintitle {
-    display: flex;
     padding: 10px;
     font-family:'Courier New', Courier, monospace; 
     background-color: rgb(123, 183, 183);
     color: rgb(22, 99, 120);
     font-size: 60px;
-    justify-content: center;
-    border-style:dashed;
+    border-style:inset;
     border-color:cadetblue;
     border-width: 5px;
     border-radius: 25px;
@@ -32,39 +40,62 @@
 }
 
 .OCD {
-    display: flex; 
-    flex-direction: row;
+    background-color:rgba(109, 149, 235, 0.692);
     border-color: rgb(123, 183, 183);
-    border-width: 
-    font-size: 24px;
-    color: whitesmoke;
-    font-size: 10px;
+    border-width: 6px;
+    border-radius: 25px;
+    font-size: 30px;
+    width: 70px;
+    padding: 10px;
     font-family:'Courier New', Courier, monospace; 
-    border-style: dashed;
+    border-style: inset;
+    margin: 20px;
+    color: whitesmoke;
     
 }
 
 .depression{
-    display: flex;
-    flex-direction: row;
     font-size: 24px;
+    background-color:rgba(109, 149, 235, 0.692);
+    border-color: rgb(123, 183, 183);
+    border-width: 6px;
+    border-radius: 25px;
+    text-align: center; 
+    width: 170px;
+    padding: 10px;
     color: whitesmoke;
-    font-size: 10px;
     font-family:'Courier New', Courier, monospace; 
-    border-style: dashed;
+    border-style: inset;
+    margin: 20px;
 }
 
 .anxiety{
-    display: flex;
-    flex-direction: row;
-    font-size: 24px;
+    background-color:rgba(109, 149, 235, 0.692);
+    border-color: rgb(123, 183, 183);
+    border-width: 6px;
+    border-radius: 25px;
+    text-align: center; 
+    font-size: 30px;
+    width: 170px;
+    padding: 10px;font-size: 24px;
     color: whitesmoke;
-    font-size: 10px;
     font-family:'Courier New', Courier, monospace; 
-    border-style: dashed;
-
+    border-style: inset;
+    margin: 20px; 
 }
 
-
-
+.homebutton{
+    background-color:rgba(109, 149, 235, 0.692);
+    border-color: rgb(123, 183, 183);
+    border-width: 6px;
+    border-radius: 25px;
+    text-align: center; 
+    font-size: 30px;
+    width: 170px;
+    padding: 10px;font-size: 24px;
+    color: whitesmoke;
+    font-family:'Courier New', Courier, monospace; 
+    border-style: inset;
+    margin: 20px; 
+}
 
