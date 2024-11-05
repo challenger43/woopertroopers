@@ -7,7 +7,7 @@
     font-family:'Courier New', Courier, monospace; 
     font-size: 18px;
     border-radius: 25px;
-    border-width: 7px;
+    border-width: 7px; 
     border-color: black;
     border-style:dashed;
     padding: 10px;
@@ -21,7 +21,6 @@
     color: rgb(22, 99, 120);
     font-size: 60px;
     justify-content: center;
-<<<<<<< HEAD
     border-style:dashed;
     border-color:cadetblue;
     border-width: 5px;
@@ -43,16 +42,3 @@
 
 
 
-=======
- 
-    border-color: rgb(2, 2, 54);
-    border-width: 5px;
-    border-radius: 25px;
-    text-decoration:double;
-    text-shadow: 4px 2px 2px black;
-
-    border-style:dashed;
-   
-}
-    
->>>>>>> 56a84d8f984a8799d2cda1dd78f78f1e3df50e2a
