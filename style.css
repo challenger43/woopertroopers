@@ -51,7 +51,7 @@ body {
     border-style: inset;
     margin: 20px;
     color: whitesmoke;
-    
+    text-align: center; 
 }
 
 .depression{
@@ -99,3 +99,21 @@ body {
     margin: 20px; 
 }
 
+h1{
+text-align: center; 
+font-size: 50 px;
+color: blue; 
+font-family:'Courier New', Courier, monospace; 
+
+
+}
+
+.depressiontext{
+    font-size: 12px;
+    font-family:'Courier New', Courier, monospace; 
+}
+
+.depressionimage{
+    margin: 50px;
+    width: 70%
+}
