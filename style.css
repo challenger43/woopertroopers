@@ -32,7 +32,8 @@
 }
 
 .OCD {
-    
+    display: flex; 
+    flex-direction: row;
     font-size: 24px;
     color: whitesmoke;
     font-size: 10px;
@@ -42,6 +43,8 @@
 }
 
 .depression{
+    display: flex;
+    flex-direction: row;
     font-size: 24px;
     color: whitesmoke;
     font-size: 10px;
@@ -50,6 +53,8 @@
 }
 
 .anxiety{
+    display: flex;
+    flex-direction: row;
     font-size: 24px;
     color: whitesmoke;
     font-size: 10px;
