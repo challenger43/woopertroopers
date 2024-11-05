@@ -114,13 +114,13 @@ body {
     font-family:'Courier New', Courier, monospace; 
     font-size: 30px;
     margin: 40px; 
-    color:blue;
+    color:rgb(196, 196, 241);
 }
 
 
 .depressionimage{
     margin: 50px;
-    width: 70%
+    width: 50%
 }
 
 .anxietyh1{
@@ -173,7 +173,6 @@ body {
     font-size: 30px;
     width: 170px;
     padding: 10px;
-    font-size: 24px;
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
@@ -189,7 +188,6 @@ body {
     font-size: 30px;
     width: 170px;
     padding: 10px;
-    font-size: 24px;
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
