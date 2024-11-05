@@ -96,24 +96,38 @@ body {
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
-    margin: 100px; 
+    margin: 10px; 
 }
 
-.OCDtexts{
-text-align: center; 
-font-size: 50px;
-color: blue; 
-font-family:'Courier New', Courier, monospace; 
-
+.OCDh1{
+    text-align: center; 
+    font-size: 50px;
+    color: blue; 
+    font-family:'Courier New', Courier, monospace; 
+    margin: 40px ;
 
 }
 
 .depressiontext{
     font-size: 12px;
     font-family:'Courier New', Courier, monospace; 
+    font-size: 30px;
+    margin: 40px; 
+    
 }
+
 
 .depressionimage{
     margin: 50px;
     width: 70%
+}
+
+.anxietyh1{
+    text-align: center; 
+    font-size: 50px;
+    color: blue; 
+    font-family:'Courier New', Courier, monospace; 
+    margin: 40px ;
+    
+
 }
