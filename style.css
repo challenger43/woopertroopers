@@ -156,5 +156,7 @@ body {
     width: 200px;
 }
 .moreinfolink:link{
-
+    color: white;
+    border-color: darkblue;
+    
 }
