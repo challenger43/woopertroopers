@@ -135,175 +135,26 @@ body {
 
 }
 
-.schizophrenia{
+.schizophrenia, .anorexia, .bipolar, .suicide, .PTSD, .moreinfo{
     background-color:rgba(109, 149, 235, 0.692);
     border-color: rgb(123, 183, 183);
     border-width: 6px;
     border-radius: 25px;
     text-align: center; 
     font-size: 25px;
+    padding: 10px;
+    color: whitesmoke;
+    font-family:'Courier New', Courier, monospace; 
+    border-style: inset;
+    margin: 20px; 
+}
+.bipolar, .suicide, .PTSD, .moreinfo{
+    width: 170px;
+}
+
+.schizophrenia, .anorexia {
     width: 200px;
-    padding: 10px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
 }
-
-.anorexia{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 200px;
-    padding: 10px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-}
-
-.bipolar{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-}
-
-.suicide{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-.PTSD{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-
-.moreinfo{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-}
-.anorexiaInfo {
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-
-.anxietyInfo {
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-
-.bipolarInfo {
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-
-.OCDinfo{
-
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
-}
-
-.depressionInfo{
-    background-color:rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
-    text-align: center; 
-    font-size: 30px;
-    width: 170px;
-    padding: 10px;font-size: 24px;
-    color: whitesmoke;
-    font-family:'Courier New', Courier, monospace; 
-    border-style: inset;
-    margin: 20px; 
-
+.moreinfolink:link{
 
 }
