@@ -86,6 +86,7 @@ body {
 }
 
 .homebutton{
+    /* display: block; */
     background-color:rgba(109, 149, 235, 0.692);
     border-color: rgb(123, 183, 183);
     border-width: 6px;
@@ -97,7 +98,7 @@ body {
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
-    margin: 10px; 
+    margin: 10px;
 }
 
 .OCDh1{
