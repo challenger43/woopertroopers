@@ -9,6 +9,7 @@ body {
     flex-direction: row-reverse; 
     flex-wrap: wrap; 
     align-content: flex-end;
+    
 }
 
 .intro {
@@ -16,7 +17,7 @@ body {
     background-color:rgb(123, 183, 183); 
     margin: 20px;
     font-family:'Courier New', Courier, monospace; 
-    font-size: 18px;
+    font-size: 20px;
     border-radius: 25px;
     border-width: 7px; 
     border-color: black;
