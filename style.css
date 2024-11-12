@@ -79,7 +79,8 @@ body {
     text-align: center; 
     font-size: 30px;
     width: 170px;
-    padding: 10px;font-size: 24px;
+    padding: 10px;
+    font-size: 24px;
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
@@ -95,7 +96,8 @@ body {
     text-align: center; 
     font-size: 30px;
     width: 170px;
-    padding: 10px;font-size: 24px;
+    padding: 10px;
+    font-size: 24px;
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace; 
     border-style: inset;
@@ -173,15 +175,20 @@ body {
     display: flex;
     flex-direction: row; 
     flex-wrap: wrap;
-    font-size: 120px;
+    font-size: 50px;
     align-items: center;
-
+    
 }
 
 .OCDparagraph{
-    font-size: 50px;
+    font-size: 24px;
     color: white; 
     font-family:'Courier New', Courier, monospace; 
+    text-align: center; 
+
+}
+
+.depressiontext{
 
 
 }
