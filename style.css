@@ -150,22 +150,37 @@ body {
     width: 200px;
 }
 
-.moreinfolink:link{
+.moreinfolinks:link{
     color: white;
     
 }
-.moreinfolink:visited{
+.moreinfolinks:visited{
     color: skyblue;
 }
 
-.moreinfolink:hover{
+.moreinfolinks:hover{
     color: rgb(142, 176, 251);
 
 }
 
-.moreinfolink:active{
-    color:rgb(11, 108, 254);
+.moreinfolinks:active{
+    color:rgb(156, 195, 255);
 
 
 }
 
+.moreinfolinks{ 
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    font-size: 120px;
+    align-items: center;
+
+}
+
+.OCDparagraph{
+    font-size: 50px;
+    color: white; 
+    font-style: 
+
+}
