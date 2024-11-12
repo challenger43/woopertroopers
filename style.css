@@ -175,20 +175,32 @@ body {
     display: flex;
     flex-direction: row; 
     flex-wrap: wrap;
-    font-size: 20px;
+    font-size: 50px;
     align-items: center;
     
 }
 
 .OCDparagraph{
-    font-size: 24px;
+    font-size: 40px;
     color: white; 
     font-family:'Courier New', Courier, monospace; 
     text-align: center; 
+    border-style: inline;
+    border-color:rgb(22, 99, 120);
 
 }
+.OCDbody{
+    background-color:rgb(188, 155, 255);
+}
+
 
 .depressiontext{
+    font-size: 40px;
+    color: white; 
+    font-family:'Courier New', Courier, monospace; 
+    text-align: center; 
+    border-style: inline;
+    border-color:rgb(22, 99, 120)
 
 
 }
