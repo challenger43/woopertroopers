@@ -161,7 +161,7 @@ body {
 }
 
 .moreinfolinks:hover {
-    color: rgb(142, 176, 251);
+    color: rgb(0, 78, 248);
 
 }
 
@@ -233,8 +233,19 @@ ol {
     border-color: rgb(22, 99, 120);
 }
 
-h2 {
+bq {
     color: rgb(8, 19, 59);
-    background-color: rgb(135, 150, 245);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
 
+}
+
+.PTSDparagraphs>p,
+ol {
+    font-size: 23px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    border-style: inline;
+    border-color: rgb(22, 99, 120);
 }
