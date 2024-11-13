@@ -233,12 +233,16 @@ ol {
     border-color: rgb(22, 99, 120);
 }
 
-bq {
-    color: rgb(8, 19, 59);
-    font-family: 'Courier New', Courier, monospace;
+.PTSDparagraphs >h2{
+
     font-size: 24px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+
 
 }
+
 
 .PTSDparagraphs>p,
 ol {
@@ -248,4 +252,14 @@ ol {
     text-align: left;
     border-style: inline;
     border-color: rgb(22, 99, 120);
+}
+.bipolarbody{
+    background-color: skyblue;
+    }
+
+.anxietybody{
+    background-color: lightpink;
+}
+.anorexiabody{
+    background-color: rgb(195, 255, 253);
 }
