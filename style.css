@@ -185,9 +185,10 @@ a :active {
     font-family: 'Courier New', Courier, monospace;
     margin: 20px;
     width: 200px;
+    border-radius: 15px;
 }
 
-/* paragraph currently not styling need to ask mr Sf */
+
 .OCDparagraph>p,
 ol {
     font-size: 23px;
@@ -254,7 +255,7 @@ ol {
     background-color: rgb(195, 255, 253);
 }
 .moreinfobody{
-    background-color: lightseagreen;
+    background-color: rgb(113, 222, 217);
 }
 .suicidebody{
     background-color: lightcoral;
