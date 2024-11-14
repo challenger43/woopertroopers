@@ -1,3 +1,8 @@
+
+html, .navbar a:hover{
+    cursor: url("wooper-cursor.png"), auto;
+}
+
 body {
     background-color: rgb(49, 49, 49);
 }
@@ -249,3 +254,4 @@ ol {
     border-style: inline;
     border-color: rgb(22, 99, 120);
 }
+
