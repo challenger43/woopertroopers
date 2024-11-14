@@ -10,7 +10,6 @@ body {
 .navbar {
     display: flex;
     justify-content: center;
-    flex-direction: row-reverse;
     flex-wrap: wrap;
     align-content: flex-end;
 
@@ -18,7 +17,7 @@ body {
 
 .intro {
     color: rgb(6, 64, 80);
-    background-color: rgb(123, 183, 183);
+    background-color:rgb(156, 195, 255);
     margin: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
@@ -122,7 +121,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
     margin: 40px;
-    color: rgb(196, 196, 241);
+    color: navy;
 }
 
 
@@ -156,24 +155,22 @@ body {
     width: 200px;
 }
 
-.moreinfolinks:link {
+a :link {
     color: white;
 
 }
 
-.moreinfolinks:visited {
+a :visited {
     color: skyblue;
 }
 
-.moreinfolinks:hover {
+a :hover {
     color: rgb(0, 78, 248);
 
 }
 
-.moreinfolinks:active {
+a :active {
     color: rgb(156, 195, 255);
-
-
 }
 
 .moreinfolinks {
@@ -182,26 +179,21 @@ body {
     flex-wrap: wrap;
     font-size: 50px;
     align-items: center;
-
-
 }
 
 .moreinfolinks>a {
     background-color: rgba(109, 149, 235, 0.692);
-    border-color: rgb(123, 183, 183);
-    border-width: 6px;
-    border-radius: 25px;
     text-align: center;
     font-size: 25px;
     padding: 10px;
     color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
-    border-style: inset;
     margin: 20px;
     width: 200px;
+    border-radius: 15px;
 }
 
-/* paragraph currently not styling need to ask mr Sf */
+
 .OCDparagraph>p,
 ol {
     font-size: 23px;
@@ -225,7 +217,10 @@ ol {
 }
 
 .DepressionBody {
-    background-color: darkcyan;
+    background-color:rgb(198, 238, 198);
+}
+.moreinfobody{
+    background-color: rgb(186, 189, 254);
 }
 
 .depressiontext>p,
@@ -238,11 +233,11 @@ ol {
     border-color: rgb(22, 99, 120);
 }
 
-bq {
-    color: rgb(8, 19, 59);
-    font-family: 'Courier New', Courier, monospace;
+.PTSDparagraphs >h2{
     font-size: 24px;
-
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
 }
 
 .PTSDparagraphs>p,
@@ -254,4 +249,16 @@ ol {
     border-style: inline;
     border-color: rgb(22, 99, 120);
 }
+.Bipolarbody{
+    background-color: skyblue;
+}
 
+.anxietybody{
+    background-color: lightpink;
+}
+.anorexiabody{
+    background-color: rgb(195, 255, 253);
+}
+.suicidebody{
+    background-color: lightcoral;
+}
