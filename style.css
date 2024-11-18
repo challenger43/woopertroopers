@@ -1,5 +1,5 @@
 
-html, .navbar a:hover{
+html, .navbar a:hover, .moreinfolinks a:hover, .homebutton a:hover{
     cursor: url("wooper-cursor.png"), auto;
 }
 
