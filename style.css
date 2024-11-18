@@ -1,7 +1,7 @@
 html,
-.navbar a:hover,
-.moreinfolinks a:hover,
-.homebutton a:hover {
+.navbar a,
+.moreinfolinks a,
+.homebutton a {
     cursor: url("wooper-cursor.png"), auto;
 }
 
@@ -271,9 +271,8 @@ ol {
 }
 
 .Depressionh1 {
-    font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
+    font-size: 35px;
     margin: 40px;
     color: navy;
 }
