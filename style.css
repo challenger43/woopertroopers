@@ -1,7 +1,10 @@
-
-html, .navbar a:hover, .moreinfolinks a:hover, .homebutton a:hover{
+html,
+.navbar a:hover,
+.moreinfolinks a:hover,
+.homebutton a:hover {
     cursor: url("wooper-cursor.png"), auto;
 }
+
 
 body {
     background-color: rgb(49, 49, 49);
@@ -17,7 +20,7 @@ body {
 
 .intro {
     color: rgb(6, 64, 80);
-    background-color:rgb(156, 195, 255);
+    background-color: rgb(156, 195, 255);
     margin: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
@@ -179,10 +182,10 @@ a :active {
     flex-wrap: wrap;
     font-size: 50px;
     align-items: center;
+    background-color: rgb(126, 126, 250);
 }
 
 .moreinfolinks>a {
-    background-color: rgba(109, 149, 235, 0.692);
     text-align: center;
     font-size: 25px;
     padding: 10px;
@@ -217,9 +220,10 @@ ol {
 }
 
 .DepressionBody {
-    background-color:rgb(198, 238, 198);
+    background-color: rgb(198, 238, 198);
 }
-.moreinfobody{
+
+.moreinfobody {
     background-color: rgb(186, 189, 254);
 }
 
@@ -233,8 +237,8 @@ ol {
     border-color: rgb(22, 99, 120);
 }
 
-.PTSDparagraphs >h2{
-    font-size: 24px;
+.PTSDparagraphs>h2 {
+    font-size: 25px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -249,16 +253,34 @@ ol {
     border-style: inline;
     border-color: rgb(22, 99, 120);
 }
-.Bipolarbody{
+
+.Bipolarbody {
     background-color: skyblue;
 }
 
-.anxietybody{
+.anxietybody {
     background-color: lightpink;
 }
-.anorexiabody{
+
+.anorexiabody {
     background-color: rgb(195, 255, 253);
 }
-.suicidebody{
+
+.suicidebody {
     background-color: lightcoral;
+}
+
+.Depressionh1 {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin: 40px;
+    color: navy;
+}
+
+.PTSDh1 {
+    color: white;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
 }
