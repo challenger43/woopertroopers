@@ -82,10 +82,6 @@ body {
 }
 
 
-.depressionimage {
-    margin: 50px;
-    width: 50%
-}
 
 .anxietyh1 {
     text-align: center;
@@ -252,5 +248,5 @@ ol {
     color: white;
     font-size: 24px;
     text-align: center;
-
+    font-family: 'Courier New', Courier, monospace;
 }
