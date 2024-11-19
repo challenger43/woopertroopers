@@ -19,6 +19,16 @@ body {
 
 }
 
+.wooperanime > img {
+    transition: all 0.1s;
+    transform: translateY(100vh);
+    width: 100px
+}
+
+.wooperanime:hover > img {
+    transform: none;
+}
+
 .intro {
     color: rgb(6, 64, 80);
     background-color: rgb(156, 195, 255);
@@ -93,7 +103,7 @@ body {
 
 }
 
-.navbar>a {
+.navbar a {
     background-color: rgba(109, 149, 235, 0.692);
     border-color: rgb(123, 183, 183);
     border-width: 6px;
@@ -263,3 +273,12 @@ ol {
     font-family:'Courier New', Courier, monospace;
 }
     
+p>img{
+    transition: all 0.1s;
+    transform: translateY(100vh);
+    opacity: 9;
+}
+
+p:hover>img{
+    transform:none;
+}
