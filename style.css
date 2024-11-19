@@ -230,6 +230,7 @@ ol {
     font-size: 50px;
     margin: 40px;
     color: navy;
+    text
 }
 
 .PTSDh1 {
@@ -237,4 +238,11 @@ ol {
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
+}
+
+.BipolarParagraph{
+    color: white;
+    font-size: 23px;
+    text-align: left; 
+
 }
