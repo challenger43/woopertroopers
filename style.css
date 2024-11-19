@@ -193,10 +193,10 @@ ol {
 }
 
 .PTSDparagraphs>h2 {
-    font-size: 35px;
+    font-size: 50px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
-    text-align: left;
+    text-align: center;
 }
 
 .PTSDparagraphs>p,
@@ -238,7 +238,7 @@ ol {
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    
+
 }
 
 .BipolarParagraph{
