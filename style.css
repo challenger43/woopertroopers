@@ -244,9 +244,22 @@ ol {
 
 }
 
+.woopernotesdiv{
+    display:flex;
+    justify-content:center;
+
+}
 .woopernotes{
     color: white;
     font-size: 24px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    margin-top: 250px;
+    border-color:rgb(49, 29, 104);
+    background-color: rgb(31, 1, 51);
+    border-width: 7px;
+    border-style:inset;
+    padding: 10px;
+    width: 1000px;
+    font-family:'Courier New', Courier, monospace;
 }
+    
