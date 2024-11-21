@@ -272,13 +272,15 @@ ol {
     width: 1000px;
     font-family:'Courier New', Courier, monospace;
 }
+
+/* code to make the wooper button work */
     
 p>img{
     transition: all 0.1s;
-    transform: translateY(100vh);
-    opacity: 9;
+    opacity: 0;
 }
 
 p:hover>img{
     transform:none;
+    opacity: 1;
 }
